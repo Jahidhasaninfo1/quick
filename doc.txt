@@ -1,0 +1,16 @@
+Menu=
+Overviews
+Landings
+Pages
+Apps
+Docs
+Color-
+skb-#008aff
+nb-#0f2656
+rd-#f15767
+slide-#202f56
+border-#eef0f3
+s_img1=#fdebed
+s_img2=#ebf9f4
+s_img3=#fff7e8
+#e75b6d
